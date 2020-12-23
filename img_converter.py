@@ -5,8 +5,8 @@ from PIL import Image
 from multiprocessing import Pool
 import multiprocessing
 
-src = r'''C:/Users/OMEN/Desktop/images/'''
-dist = r'''C:/Users/OMEN/Desktop/TTest/'''
+src = r'''C:/Users/OMEN/Desktop/images/''' #for WINDOWS
+dist = r'''C:/Users/OMEN/Desktop/TTest/''' #for WINDOWS
 
 #src = "/home/alex/images/"  # for *nix systems
 #dist = "/home/alex/TTest/"  # for *nix systems
